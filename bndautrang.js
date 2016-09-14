@@ -117,8 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://goo.gl/rKJWvA' target='_blank'><img src='http://tragoppiaggio.vn/tintuc/chi-tiet/bo-phu-kien-thoi-trang-dang-cap-tien-dung-cua-vespa-9' width='500px'/><br/>Vespa tân bình hỗ trợ 100% thuế trước bạ
-Tùy chọn của Blogger
+			jQuery("#myModal").html("<a href='http://bit.ly/1lToycU' target='_blank'><img src='http://tragoppiaggio.vn/tintuc/chi-tiet/bo-phu-kien-thoi-trang-dang-cap-tien-dung-cua-vespa-9' width='500px'/><br/>Vespa tân bình hỗ trợ 100% thuế trước bạ
 </a>.hotline 0909101072. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
